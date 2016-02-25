@@ -1,7 +1,7 @@
 {
     "name": "babel-plugin-transform-remove-props",
     "version": "0.0.1",
-    "description": "Babel transform to remove chosen properties.",
+    "description": "Babel transform to remove selected properties.",
     "author": "Wojtek Ruszczewski <babel-remove-props@wr.waw.pl>",
     "keywords": ["babel", "plugin", "transform", "minification", "properties"],
     "scripts": {
